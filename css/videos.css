@@ -96,6 +96,10 @@ main{
       background: #FFF;
     }
 
+    article h1 {
+      margin-bottom: 3rem;
+    }
+
     article h2 {
       margin-bottom: 2rem;
     }
